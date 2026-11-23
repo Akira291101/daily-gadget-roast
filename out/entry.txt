@@ -1,0 +1,1 @@
+My food app demands a rating before it lets me order dinner — the only business asking for a review of a meal that does not exist yet.
